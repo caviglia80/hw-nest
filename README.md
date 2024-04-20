@@ -1,7 +1,7 @@
-## Proyecto HW Nest
-$ git clone
-$ cd project
-$ npm install
-$ npm run start // will be on http://localhost:3000/
+## Proyecto HW Nest (basic CRUD)
+$ git clone </br>
+$ cd project </br>
+$ npm install </br>
+$ npm run start:dev // will be on http://localhost:3000/ </br>
 
 
