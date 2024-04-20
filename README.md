@@ -5,6 +5,6 @@ $ cd project-name </br>
 $ npm install </br>
 $ npm run start:dev // will be on http://localhost:3000/ </br>
 
-nest g resource brands --no-spec </br>
+nest g resource entidad_x --no-spec </br>
 
 [Nest-cheatsheet.pdf](Nest-cheatsheet.pdf) </br>
